@@ -79,14 +79,14 @@ export const PROJECTS = [
     technologies: ["Figma","WordPress" ],
   },
   {
-    title: "Frontend Hotel Website",
+    title: "Hotel Website",
     image: project5,
     description:
       "A hotel booking platform. There are user, admin, and receptionist pages.",
     technologies: ["React", "Javascript", "Tailwind CSS"],
   },
   {
-    title: "Frontend Student Health Unit Platform",
+    title: "Student Health Unit Platform",
     image: project6,
     description:
       "a school Student Health Unit platform. Which serves as a record for the School Health Unit at school.",

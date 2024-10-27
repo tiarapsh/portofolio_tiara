@@ -18,7 +18,6 @@ const About = () => {
             className="rounded-lg object-cover max-w-full h-auto"
             style={{ width: "500px", height: "400px" }} 
           />
-          {/* Card Section */}
           <div className="bg-[#efe2fd] shadow-lg rounded-lg p-5 mt-[-30px] ml-[56px] max-w-sm w-full"> {/* Adjusted ml-[10px] to shift card to the right */}
             <h2 className="text-xl font-semibold text-center">Connect with Me</h2>
             <div className="flex flex-col items-center mt-3 space-y-2">
